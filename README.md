@@ -62,6 +62,6 @@ Check out the [Samples Folder](samples/) for examples on how to use this library
 | ![](https://avatars.githubusercontent.com/u/103241885?s=64) | [FutureDorito](https://github.com/Futuredorito) | iOS support
 | ![](https://avatars.githubusercontent.com/u/82843871?s=64) | [mcagabe19](https://github.com/mcagabe19) | iOS support
 
-| Fork Involvement |
-| ---------------- |
-| ![](https://avatars.githubusercontent.com/u/144155299?v=4) | [Lunar](https://github.com/SyncGit12) | hxCodec 2.5.1 and newer versions compatibility
+| Avatar | UserName | Involvement |
+| ------ | -------- | ----------- |
+| ![](https://avatars.githubusercontent.com/u/144155299?v=64) | [Lunar](https://github.com/SyncGit12) | hxCodec 2.5.1 compatibility
