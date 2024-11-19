@@ -1,26 +1,16 @@
-# hxCodec
+# Nothin' Engine - hxCodec
 
-![](https://img.shields.io/github/repo-size/polybiusproxy/hxCodec) ![](https://badgen.net/github/open-issues/polybiusproxy/hxCodec) ![](https://badgen.net/badge/license/MPL2.0/green)
-
-A Haxe library which adds native video playback on [HaxeFlixel](https://haxeflixel.com) and [OpenFL](https://www.openfl.org).
-
-`hxCodec` is powered by [libVLC](https://www.videolan.org/vlc/libvlc.html).
-
-**[Click here to check the roadmap](https://github.com/polybiusproxy/hxCodec/projects/1)**
+The hxCodec fork that powers Nothin' Engine on FNF.
 
 ## Instructions
 
 1. Install the latest stable version of `hxCodec` by running the following haxelib command.
+   
     ```bash
-    haxelib install hxCodec
+    haxelib git hxCodec https://github.com/syncgit12/hxCodec
     ```
 
-    You can also install it through `Git` to get the latest changes.
-    ```bash
-    haxelib git hxCodec https://github.com/polybiusproxy/hxCodec
-    ```
-
-2. Add this code in the ***project.xml*** file.
+3. Add this code in the ***project.xml*** file.
     ```xml
     <haxelib name="hxCodec" if="desktop || mobile" />
     ```
@@ -71,3 +61,7 @@ Check out the [Samples Folder](samples/) for examples on how to use this library
 | ![](https://avatars.githubusercontent.com/u/107599365?v=64) | [Jonnycat](https://github.com/JonnycatMeow) | macOS support
 | ![](https://avatars.githubusercontent.com/u/103241885?s=64) | [FutureDorito](https://github.com/Futuredorito) | iOS support
 | ![](https://avatars.githubusercontent.com/u/82843871?s=64) | [mcagabe19](https://github.com/mcagabe19) | iOS support
+
+| Fork Involvement |
+| ---------------- |
+| ![](https://avatars.githubusercontent.com/u/144155299?v=4) | [Lunar](https://github.com/SyncGit12) | hxCodec 2.5.1 and newer versions compatibility
