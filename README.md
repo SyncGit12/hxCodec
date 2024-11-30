@@ -64,4 +64,4 @@ Check out the [Samples Folder](samples/) for examples on how to use this library
 
 | Avatar | UserName | Involvement |
 | ------ | -------- | ----------- |
-| ![](https://avatars.githubusercontent.com/u/144155299?v=64) | [Lunar](https://github.com/SyncGit12) | hxCodec 2.5.1 compatibility
+| ![](https://avatars.githubusercontent.com/u/144155299?s=64) | [Lunar](https://github.com/SyncGit12) | hxCodec 2.5.1 compatibility
