@@ -1,3 +1,5 @@
+# WARNING: hxCodec is mostly deprecated, don't use hxCodec and instead use [hxvlc](https://github.com/MAJigsaw77/hxvlc)
+
 # Nothin' Engine - hxCodec
 
 The hxCodec fork that powers Nothin' Engine on FNF.
